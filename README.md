@@ -10,6 +10,8 @@ This project recommends movies based on user sentiment analysis from tweets and 
 - NLP
 - Pandas
 - Numpy
+- Content-Based Filtering
+- Collaborative Filtering
 
 ## Dataset
 - movies.csv – Movie details
